@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/subhamg6/LeetCodePractice/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/subhamg6/LeetCodePractice/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/subhamg6/LeetCodePractice/tree/master/0918-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/subhamg6/LeetCodePractice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/subhamg6/LeetCodePractice/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/subhamg6/LeetCodePractice/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/subhamg6/LeetCodePractice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/subhamg6/LeetCodePractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/subhamg6/LeetCodePractice/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/subhamg6/LeetCodePractice/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/subhamg6/LeetCodePractice/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/subhamg6/LeetCodePractice/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/subhamg6/LeetCodePractice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/subhamg6/LeetCodePractice/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/subhamg6/LeetCodePractice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/subhamg6/LeetCodePractice/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |

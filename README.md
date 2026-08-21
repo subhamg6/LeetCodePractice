@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/subhamg6/LeetCodePractice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/subhamg6/LeetCodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/subhamg6/LeetCodePractice/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/subhamg6/LeetCodePractice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/subhamg6/LeetCodePractice/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/subhamg6/LeetCodePractice/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/subhamg6/LeetCodePractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/subhamg6/LeetCodePractice/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/subhamg6/LeetCodePractice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/subhamg6/LeetCodePractice/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/subhamg6/LeetCodePractice/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/subhamg6/LeetCodePractice/tree/master/0918-maximum-sum-circular-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/subhamg6/LeetCodePractice/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

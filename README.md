@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/subhamg6/LeetCodePractice/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/subhamg6/LeetCodePractice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/subhamg6/LeetCodePractice/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/subhamg6/LeetCodePractice/tree/master/0622-design-circular-queue) |
 | [0724-find-pivot-index](https://github.com/subhamg6/LeetCodePractice/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/subhamg6/LeetCodePractice/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/subhamg6/LeetCodePractice/tree/master/0904-fruit-into-baskets) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/subhamg6/LeetCodePractice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/subhamg6/LeetCodePractice/tree/master/0142-linked-list-cycle-ii) |
+| [0622-design-circular-queue](https://github.com/subhamg6/LeetCodePractice/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/subhamg6/LeetCodePractice/tree/master/0876-middle-of-the-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/subhamg6/LeetCodePractice/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bit Manipulation
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/subhamg6/LeetCodePractice/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/subhamg6/LeetCodePractice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -171,4 +174,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/subhamg6/LeetCodePractice/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/subhamg6/LeetCodePractice/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->

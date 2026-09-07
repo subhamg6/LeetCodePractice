@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/subhamg6/LeetCodePractice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/subhamg6/LeetCodePractice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/subhamg6/LeetCodePractice/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/subhamg6/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/subhamg6/LeetCodePractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/subhamg6/LeetCodePractice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/subhamg6/LeetCodePractice/tree/master/0560-subarray-sum-equals-k) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/subhamg6/LeetCodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/subhamg6/LeetCodePractice/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/subhamg6/LeetCodePractice/tree/master/0076-minimum-window-substring) |
+| [0387-first-unique-character-in-a-string](https://github.com/subhamg6/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/subhamg6/LeetCodePractice/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/subhamg6/LeetCodePractice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/subhamg6/LeetCodePractice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/subhamg6/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/subhamg6/LeetCodePractice/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/subhamg6/LeetCodePractice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
@@ -175,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/subhamg6/LeetCodePractice/tree/master/0155-min-stack) |
 | [0622-design-circular-queue](https://github.com/subhamg6/LeetCodePractice/tree/master/0622-design-circular-queue) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/subhamg6/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

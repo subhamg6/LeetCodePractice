@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/subhamg6/LeetCodePractice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/subhamg6/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/subhamg6/LeetCodePractice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/subhamg6/LeetCodePractice/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/subhamg6/LeetCodePractice/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/subhamg6/LeetCodePractice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/subhamg6/LeetCodePractice/tree/master/0875-koko-eating-bananas) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/subhamg6/LeetCodePractice/tree/master/0202-happy-number) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/subhamg6/LeetCodePractice/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Divide and Conquer
 |  |
 | ------- |

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/subhamg6/LeetCodePractice/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/subhamg6/LeetCodePractice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/subhamg6/LeetCodePractice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/subhamg6/LeetCodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/subhamg6/LeetCodePractice/tree/master/0033-search-in-rotated-sorted-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/subhamg6/LeetCodePractice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/subhamg6/LeetCodePractice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/subhamg6/LeetCodePractice/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/subhamg6/LeetCodePractice/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/subhamg6/LeetCodePractice/tree/master/0383-ransom-note) |
@@ -247,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/subhamg6/LeetCodePractice/tree/master/0796-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/subhamg6/LeetCodePractice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

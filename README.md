@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/subhamg6/LeetCodePractice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/subhamg6/LeetCodePractice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/subhamg6/LeetCodePractice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/subhamg6/LeetCodePractice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |

@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/subhamg6/LeetCodePractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/subhamg6/LeetCodePractice/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/subhamg6/LeetCodePractice/tree/master/0287-find-the-duplicate-number) |
+| [0844-backspace-string-compare](https://github.com/subhamg6/LeetCodePractice/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/subhamg6/LeetCodePractice/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/subhamg6/LeetCodePractice/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/subhamg6/LeetCodePractice/tree/master/0986-interval-list-intersections) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/subhamg6/LeetCodePractice/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/subhamg6/LeetCodePractice/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/subhamg6/LeetCodePractice/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/subhamg6/LeetCodePractice/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/subhamg6/LeetCodePractice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/subhamg6/LeetCodePractice/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/subhamg6/LeetCodePractice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/subhamg6/LeetCodePractice/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/subhamg6/LeetCodePractice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/subhamg6/LeetCodePractice/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/subhamg6/LeetCodePractice/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/subhamg6/LeetCodePractice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/subhamg6/LeetCodePractice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/subhamg6/LeetCodePractice/tree/master/2390-removing-stars-from-a-string) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/subhamg6/LeetCodePractice/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/subhamg6/LeetCodePractice/tree/master/2390-removing-stars-from-a-string) |
 ## Memoization
 |  |

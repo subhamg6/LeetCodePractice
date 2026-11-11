@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/subhamg6/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/subhamg6/LeetCodePractice/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/subhamg6/LeetCodePractice/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/subhamg6/LeetCodePractice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0457-circular-array-loop](https://github.com/subhamg6/LeetCodePractice/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/subhamg6/LeetCodePractice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/subhamg6/LeetCodePractice/tree/master/0560-subarray-sum-equals-k) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/subhamg6/LeetCodePractice/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/subhamg6/LeetCodePractice/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/subhamg6/LeetCodePractice/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/subhamg6/LeetCodePractice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/subhamg6/LeetCodePractice/tree/master/0567-permutation-in-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/subhamg6/LeetCodePractice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/subhamg6/LeetCodePractice/tree/master/0904-fruit-into-baskets) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/subhamg6/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/subhamg6/LeetCodePractice/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/subhamg6/LeetCodePractice/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/subhamg6/LeetCodePractice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/subhamg6/LeetCodePractice/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/subhamg6/LeetCodePractice/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/subhamg6/LeetCodePractice/tree/master/0767-reorganize-string) |

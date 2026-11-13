@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/subhamg6/LeetCodePractice/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/subhamg6/LeetCodePractice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/subhamg6/LeetCodePractice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/subhamg6/LeetCodePractice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/subhamg6/LeetCodePractice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/subhamg6/LeetCodePractice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/subhamg6/LeetCodePractice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/subhamg6/LeetCodePractice/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/subhamg6/LeetCodePractice/tree/master/1004-max-consecutive-ones-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/subhamg6/LeetCodePractice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Sorting
 |  |
 | ------- |

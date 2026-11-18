@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/subhamg6/LeetCodePractice/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/subhamg6/LeetCodePractice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/subhamg6/LeetCodePractice/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/subhamg6/LeetCodePractice/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/subhamg6/LeetCodePractice/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/subhamg6/LeetCodePractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/subhamg6/LeetCodePractice/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/subhamg6/LeetCodePractice/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/subhamg6/LeetCodePractice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/subhamg6/LeetCodePractice/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/subhamg6/LeetCodePractice/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/subhamg6/LeetCodePractice/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/subhamg6/LeetCodePractice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/subhamg6/LeetCodePractice/tree/master/0739-daily-temperatures) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/subhamg6/LeetCodePractice/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/subhamg6/LeetCodePractice/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/subhamg6/LeetCodePractice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/subhamg6/LeetCodePractice/tree/master/0739-daily-temperatures) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/subhamg6/LeetCodePractice/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/subhamg6/LeetCodePractice/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/subhamg6/LeetCodePractice/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/subhamg6/LeetCodePractice/tree/master/0581-shortest-unsorted-continuous-subarray) |
